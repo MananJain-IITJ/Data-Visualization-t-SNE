@@ -1,15 +1,20 @@
-# Data-Visualization-t-SNE
+# Data Visualization with t-SNE
 
-Visualizing Data on 2 Datasets
-  1.Iris Dataset
-  2.WineQt Dataset 
+This project focuses on visualizing data from two datasets:
 
-Libraries Used For Visualization
-  1.Plotly
-  2.Seaborn
-  3.Scikit-learn for t-SNE and PCA
-  4.Matplotlib
-  5.Ucimlrepo
+1. **Iris Dataset**
+2. **WineQt Dataset**
 
-To run this kindly download the file and run all the cell of the ipynb file .
+## Libraries Used for Visualization
 
+The visualization is implemented using the following libraries:
+
+1. **Plotly**
+2. **Seaborn**
+3. **Scikit-learn** for t-SNE and PCA
+4. **Matplotlib**
+5. **Ucimlrepo**
+
+## Running the Visualization
+
+To run this visualization, download the files and execute all cells in the IPYNB file.
